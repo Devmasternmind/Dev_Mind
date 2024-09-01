@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Hassan</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1000/0*VlTcqQGkS25mEZAI.gif"/> </p>
+<img align="right" alt="coding" width="500" src="https://cdn.akamai.steamstatic.com/steam/apps/1335790/extras/Steam_gif_2.gif?t=1678138568"/> </p>
 
 - 🌱 I’m currently learning **Frameworks, Visualization, AI, Ml models,**
 
