@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Hassan</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
+<h3 align="center">A passionate Web Developer.</h3>
 
 <img align="right" alt="coding" width="500" src="https://i.gifer.com/origin/79/79119979d8f89fcbb6f7cb296de2f3bb_w200.gif"/> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shahzaibhassan206@gmail.com**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **Entertainment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
