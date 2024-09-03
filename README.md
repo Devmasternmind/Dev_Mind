@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Hassan</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 
-<img align="right" alt="coding" width="500" src="https://i.gifer.com/origin/79/79119979d8f89fcbb6f7cb296de2f3bb_w200.gif"/> </p>
+
 
 - 🌱 I’m currently learning **Frameworks, Visualization, AI, Ml models,**
 
