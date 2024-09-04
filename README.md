@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Hassan</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
-<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/87/fb/e7/87fbe73d7c995a3f96468c13cb9ea253.gif"/> </p>
+<img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1280/1*B4NL8NsOivEV0UUx8CdYZg.gif"/> </p>
 
 - 🌱 I’m currently learning **Frameworks, Visualization, AI, Ml models,**
 
 - 📫 How to reach me **shahzaibhassan206@gmail.com**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **Entertainment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
