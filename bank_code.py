@@ -1,3 +1,18 @@
+# This ATM a real world basic project is created using "Classes and Objects" in Python which has some actions performed in this project like...||
+# if you entered awrong num and card details it  will ask you to enter again and again valid name card details
+# and also if you entered 3 times wrong pin it will block your card and no actions to be performed after blocking card.
+#  This is just code performed  without voice. 
+# 1).
+# You can check your account details by pressing given option for chech card details.
+# 2).
+# You can check your current Balance.
+# 3).
+# You can deposite Balance to your account.
+# 4).
+# You can withdraw Blance. and some other acations has performed in this section.
+# 5).
+# you can Change your pin.
+
 import time
 import datetime
 import random
