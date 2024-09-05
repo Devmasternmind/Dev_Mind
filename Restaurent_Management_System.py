@@ -4,7 +4,7 @@
     display total price of order and also asked for another order or not.
 """
 # we will use dictionary and conditional satements i this project.
-
+# Ceate Dictionary
 Menu = {
         "Small Pizza": 900, "Medium Pizza": 1350, "Large Pizza": 1950, "Family Pizza": 2350,
         "Regular Burger": 250, "Cheese Burger": 450, "Petti Burger": 560, "Combo Burger": 850,
