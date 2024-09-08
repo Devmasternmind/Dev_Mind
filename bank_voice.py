@@ -218,19 +218,7 @@ class ATM:
           self.engine.say(self.text)
           self.engine.runAndWait() 
           self.amount = int(input("Enter amount  for withdraw: "))
-          while True:
-           if self.amount > self.current_balance:
-                break
-           else:
-               print("Incorrect Amount! please try again Amount is high enter low amount: ")
-               self.text = "Incorrect Amount! please try again Amount is high enter low amount"
-               self.engine = pyttsx3.init()
-               self.Voices = self.engine.getProperty("voices")
-               self.engine.setProperty("voice", self.Voices[1].id)
-               self.rate = self.engine.getProperty("rate")
-               self.engine.setProperty("rate", 170)
-               self.engine.say(self.text)
-               self.engine.runAndWait() 
+         
      
            self.text = "Do you Want slip for Withdraw balance: (yes or no)"
            self.engine = pyttsx3.init()
